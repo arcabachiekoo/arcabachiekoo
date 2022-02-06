@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arcabachiekoo
 - 👀 I’m interested in hardcoreProgramming
 - 🌱 I’m currently learning swiftUi
-- 💞️ I’m looking to collaborate on learningSwift
+- 💞️ I’m looking to collaborate on swiftProjects
 - 📫 reach me @ kwesi.hammah@icloud.com 
 
 <!---
